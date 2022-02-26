@@ -81,7 +81,6 @@ body {
   padding: 10px 21px;
   text-align: center;
   text-transform: none;
-  transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
@@ -172,6 +171,6 @@ quote {
     background-color: #1F2937;
     color: #F9FAF8;
     text-align: center;
-    padding: 20px;
+    padding: 20px;gi
     font-size: 12px;
 }
