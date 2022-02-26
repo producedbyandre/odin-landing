@@ -119,3 +119,25 @@ body {
     border: 3px solid #3883f6;
     border-radius: 20px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    margin: 0px;
+    padding: 100px 0px;
+}
+
+.quote-container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.quote-container p {
+    text-align: right;
+}
+
+quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
