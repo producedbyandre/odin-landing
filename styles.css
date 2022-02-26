@@ -94,3 +94,28 @@ body {
 .button-22:hover {
   background-color: #1C84FF;
 }
+
+.random-section {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.random-section h2 {
+    font-size: 36px;
+    font-size: extra-bold;
+    color: #1F2937;
+}
+
+.random-info {
+    display: flex;
+    max-width: 900px;
+    justify-content: center;
+    margin: auto;
+}
+
+.random-info img {
+    border: 3px solid #3883f6;
+    border-radius: 20px;
+}
