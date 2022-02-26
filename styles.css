@@ -166,3 +166,11 @@ quote {
     width: 100px;
     height: 30px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+}
